@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Internet Solution for Industrial Devices Based on FlexCloud](README.md)
+* [IIoT](README.md)
+* [Internet Solution for Industrial Devices Based on FlexCloud](internet-solution-for-industrial-devices-based-on-flexcloud.md)
+* [Untitled](untitled-2.md)
+* [Untitled](untitled-1.md)
 
 ## FBox Introduction and Manual of FlexManager
 
