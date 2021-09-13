@@ -1,326 +1,303 @@
-# FBox Series Hardware Instruction Manual
+# Internet Solution for Industrial Devices Based on FlexCloud
 
-online.
+![](.gitbook/assets/0%20%282%29.jpeg)![](.gitbook/assets/1%20%285%29.jpeg)
 
-**FBox Series Instruction Manual**
+As a high-tech corporation, we are specialized in designing, research, and production of industrial embedded
 
-## 一、Introduction
+HMI, PLC, wireless Internet communication devices. UPSILON is endeavoring to create the innovative automation products in the Internet area.
 
-FBox, the remote communication devices, can be installed in the equipment cabinet. It can be connected to COM ports or various PLC with Ethernet communication, intelligent instrument, frequency inverters and etc. Data inside PLCs and instruments will be sent to the icloud server by the FBox. You can use computers or phones to check data, running situation and alarming
+At present, we have dozens of series of independent brands, which includes wireless communication products FBox to FLex Cloud to provide Internet solution for industrial devices, multi-touch capacitive HMI, standard industrial HMI, programmable logic controller \(PLC\), frequency inverter, PMSM motor, switch sensor. Our products and solutions are widely sued in water supplying, air conditioners, boilers, packing, printing, textile industry, electronics, engineering, new energy, transportation, building automation, mines and smart home industry.![](.gitbook/assets/2%20%286%29.png)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">FBox</th>
-      <th style="text-align:left">FBox-2G</th>
-      <th style="text-align:left">FBox-WiFi</th>
-      <th style="text-align:left">FBox-VPN</th>
-      <th style="text-align:left">FBox-4G</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Network</td>
-      <td style="text-align:left">Ethernet</td>
-      <td style="text-align:left">Unicorn/Mobile 2G Ethernet</td>
-      <td style="text-align:left">Ethernet WiFi</td>
-      <td style="text-align:left">Ethernet</td>
-      <td style="text-align:left">
-        <p>Unicorn/Mobile</p>
-        <p>/telecom(2G/3G/4G) 2G/3G/4G</p>
-        <p>Ethernet</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CPU</td>
-      <td style="text-align:left">600MHz ARM Cortex-A8</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Memory</td>
-      <td style="text-align:left">128M Flash +128M DDR3</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">VPN</td>
-      <td style="text-align:left">Nonsupport</td>
-      <td style="text-align:left">Support</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ethernet</td>
-      <td style="text-align:left">10M/100M Ethernet ports*3</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Serial</p>
-        <p>Port</p>
-      </td>
-      <td style="text-align:left">
-        <p>COM1&#xFF1A;RS232/RS485/RS422</p>
-        <p>COM2&#xFF1A;RS485&#xFF1B;COM3&#xFF1A;RS232</p>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+**Under** **the** **wave** **of** **industry** **4.0** **and** **intelligent** **manufacturing,** **equipment** **manufactures** **and** **factories** **need** **a** **complete** **set** **of** **remote** **information** **system.** **The** **Internet** **solution,** **which** **UPSILON** **provides,** **can** **connect** **your** **device** **to** **FLex** **Cloud** **platform** **through** **the** **latest** **industrial** **interconnection** **technology,** **to** **realize** **remote** **interconnection** **of** **a** **large** **number** **of** **equipments,** **and** **provide** **you** **with** **the** **efficeincy** **and** **stable** **data** **transmission,** **accurate** **and** **timely** **data** **analysis,** **variaous** **using** **ways,** **which** **helps** **you** **enter** **the** **cloud** **era** **of** **indusrial** **Internet.**
 
-The chart of products classification is below.
+**●** **Internet** **Solution** **for** **Industrial** **Devices**
 
-## 二、Installation
+● **Components**
 
-* 1. DIN-rail mounting
+![](.gitbook/assets/3%20%286%29.jpeg)
 
-![](.gitbook/assets/0%20%285%29.jpeg)
+● **Advantages**
 
-1）Move the snap joint upward 2）Insert the snap joint into the groove
+1. Strong Compatibility
 
-3）Move the snap joint back when it is placed already.
+FBox contains a large number of device drivers and protocols conversion, and you do not need to understand the
 
-Notice: Snap joint is 35mm regular snap joint, you need prepare it by yourself.
+specific protocol contents and details, FBox transfers the data to the Internet directly, and IT personnels can use the data directly and IT personnels can use the data directly and do not need to know automation knowledge.
 
-* 1. SIM card installation
+![](.gitbook/assets/1.jpg)
 
-Groove of SIM card is at the top of FBox \(except FBox, FBox-VPN and FBox-WiFi\).
+**FBox**
 
-#### ![](.gitbook/assets/1.png) ![](.gitbook/assets/2%20%282%29.png) ![](.gitbook/assets/3%20%281%29.png) ![](.gitbook/assets/4%20%285%29.png)
+![](.gitbook/assets/5%20%282%29.jpeg)![](.gitbook/assets/6.jpeg)
 
-* * 1. Use screwdriver with 2.0 mm diameter or other sharp item to press the point beside the SIM groove to get the card tray out.
+Only one way is needed to access the Internet, it will be Online after power on. And you do not need firewall Settings, and the software can be configured remotely.
 
-2）After you put SIM card inside the cart tray, insert the card tray into the FBox.
+![](.gitbook/assets/7%20%283%29.jpeg) **Safe** **and** **Reliable**
 
-* 1. Antenna Installation
+The secure access, encrypted transmission, cloud backup can be provided. Supporting multi-privilieged, secure Log in etc to realize the multi-layer protection for the data and you can build safe and realizble industrial data Access environment.
 
-Different types of FBox corresponds to different types of antennas.
+![](.gitbook/assets/8%20%284%29.jpeg) **High** **Concurrent,** **Low** **Flow**
 
-Using wrong antenna may cause bad signal\( may be worse than without antenna\)
+It supports concurrent access of a large number of devices to a single server, and supports server cluster and load balancing. With the differential push technology after the local protocol communication in intelligent terminal is parsed, the data traffice is greatly recuded.
 
-Please keep the cable extending. Do not ward the cable too much. Keep the connection tight. When you use it outside, you can advance its water resistance by sealing.
+![](.gitbook/assets/9.jpeg)
 
-If you want to lengthen the antenna, please use the specific antenna extension line.
+**4.** **Open** **and** **Easy** **to** **Use**
 
-Don’t push antenna inside a place that shield metals.
+It supports various data interface, such as SDK/HTTP/OPC, and it is
 
-## 三、How to use
+convenient for users to obtain the data easily to realize software
 
-### ![](.gitbook/assets/5%20%286%29.png)Software preparation
+development. The interface is simpel and easy to use.
 
-Set the configuration of FBox by the software: FlexManager.
+![](.gitbook/assets/10.jpeg)
 
-Go to website ww.flexem.cn. Click “Download” to get in the download page. Download the latest software “FlexManager”\(Check System version\) and install it by following the instruction
+FBox is used to connect the filed devices,
 
-### Interface Introduction.
+![](.gitbook/assets/11%20%285%29.jpeg)Such as PLC, gauges, frequency converter
 
-The Interface introduction can be checked on the graph on the right side：
+And so one, then transfers the device data
+
+To Cloud platform through internet, 2G/3G
+
+/4G, etc.
+
+★![](.gitbook/assets/12.png)
+
+**●** **Simple** **Setup**
+
+**●** **Various** **Ports** **Connection**
+
+It supports Ethernet, RS232, RS485, RS422 and other
+
+Interface devices connection.
+
+**●** **Compatibel** **with** **a** **large** **number** **of** **devices**
+
+![](.gitbook/assets/13%20%281%29.jpeg)
+
+It contains a large nunder of device delivers, and supports
+
+The current mainstream PLC procut, and the users to n ot
+
+Need to know the detailed protocol.
+
+**●** **Supports** **LAN** **Connection**
+
+Local HMI can communicate with PLC through FBox, the
+
+Computer is connected with FBox through Ethernet in local
+
+area network to obtain PLC data.
+
+![](.gitbook/assets/14.png)![](.gitbook/assets/15%20%284%29.jpeg)
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">FBox-2G</th>
       <th style="text-align:left">
-        <p>2G/4G</p>
-        <p>WAN Port Static IP 192.168.0.200 LAN Port IP 192.168.1.1</p>
+        <p>Function</p>
+        <p>1. Realize data collection, monitoring, alarming of remote devices, historical
+          storage and other functions.</p>
+        <p>2. Realize the function of data push, and transfer the data to client
+          software through ports.</p>
+        <p>3. Multiple clinets can access in the same FBox data at the same time.</p>
+        <p>4. Self-built account system, different accounts can check the same FBox
+          at the same time with sharing and privilege functiion.</p>
+      </th>
+      <th style="text-align:left">
+        <p>Feature</p>
+        <p>1. It can connect thousands of devices at the same time to ensure real-time
+          data transmission.</p>
+        <p>2. It supports server cluster and locad balancing to encure the stable
+          and reliable connection of large numbers of equipments and the real time
+          data acquisition.</p>
+        <p>3. Strong openness, and it supports HTTP/SDK interface, IT develops do
+          not need to know automation knowledage can can develop application software.</p>
+        <p>4. Unique account sharing setting, different people can see</p>
       </th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">FBox-4G</td>
-      <td style="text-align:left">
-        <p>2G/4G</p>
-        <p>WAN Port Static IP 192.168.0.200 LAN Port IP 192.168.1.1</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">FBox-WiFi</td>
-      <td style="text-align:left">
-        <p>2G/4G/WiFi Nonsupport WAN Port DHCP</p>
-        <p>LAN Port IP 192.168.1.1</p>
-      </td>
-    </tr>
-  </tbody>
+  <tbody></tbody>
 </table>
 
-### ![](.gitbook/assets/6%20%285%29.jpeg)FBox Online Configuration
+different devices data in the same platform, simple to![](.gitbook/assets/16%20%282%29.jpeg)
 
-You need first confirm that FBox is online before you do anything on the FBox. FBox can use Ethernet, mobile network or WIFI to get online.
+Cloud flatform is divided into public cloud server and private cloud server,
 
-The default internet connection and IP is below:
+IT policy is strict, if you want to keep confidential and do not use the third-
+
+party cloud server, you can choose to build a private cloud server
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Network</th>
+      <th style="text-align:left">
+        <p>Model</p>
+        <p>Feature</p>
+        <p>Price</p>
+      </th>
+      <th style="text-align:left">
+        <p>Pulbic Cloud Server</p>
+        <p>Users can use public cloud server services direct;y, and do not need to
+          set up their own servers.</p>
+        <p>Free/value-aaded service charge</p>
+      </th>
+      <th style="text-align:left">
+        <p>Private Cloud Server</p>
+        <p>Computer server is needed to provide to inst their own server center</p>
+        <p>Software cost, implementation fee, upgrade and maintenance ffee</p>
+      </th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">FBox,FBox-VPN</td>
-      <td style="text-align:left">
-        <p>WAN Port DHCP</p>
-        <p>LAN IP 192.168.1.1</p>
-      </td>
-    </tr>
-  </tbody>
+  <tbody></tbody>
 </table>
 
-You can use configuration tool to set the internet connection of FBox.
+![](.gitbook/assets/17%20%281%29.png)
 
-Use USB line to connect FBox USB Port and computer USB port. Open the top-right configuration tools on the FlexManager.. Click “Refresh”, if the communication is normal, the interface will show the network configuration of FBox.
+**2.** **Stadard** **PC** **Client** **and** **Mobile** **App**
 
-Set internet connection as you need. After you set all the modules, you need to click “Set”. After you set all the parameters, you need to click “Restart” on the top-right of the interface. Fbox will restarts and all parameters work.
+We provide customer with standard PLC client and mobile
 
-Go to [www.flexem.cn/download.html](http://www.flexem.cn/download.html) to check “Instruction of Configuration Tool” to get more details
+APP software, and you can realize basic data monitoring,
 
-## 四 、 FlexManager Instruction
+remote configuration, fault alarming, and historical data
 
-### Account Signup and Login
+query and other functions.
 
-Open FlexManager, and click Sign up. Follow the instructions to finish
+**3.** **OPC** **Server**
 
-![](.gitbook/assets/7%20%285%29.png)registration\( email\).
+When the number of the devices connected to the network is small, the users can adopt the way of OPC software&standard thrid party configuration software, tranfer data to the clpud server through OPC Server to achieve data acquision, data monitoring and other functions.
 
-### ![](.gitbook/assets/8%20%282%29.jpeg)Add FBox
+**4.** **Cloud** **Configuration** **Software**
 
-After you login your account, click the bottom-left icon to add FBox, the needed serial number and password can be found on a label on the side of your FBox. Then set up the name for your FBox you want and click confirm.\( Every FBox has only one serial number and password. After you bind FBox with your account, the other account cannot bind with your FBox unless you delete it on your account.\)
+We supply with cloud configuration doftware to those who need a large number of remote devices, and the customers can configure freely, to achieve equoment managing, data monitring, fault alarming, hostorical data analyzing and other functions.![](.gitbook/assets/18%20%282%29.jpeg)
 
-* 1. FBox Online and Add Connection Device
+**1.** **HTTP** **or** **SDK** **Ports.**
 
-![](.gitbook/assets/9%20%281%29.jpeg)After adding FBox, you will see the device entry on the left list, the sign means your FBox is online. The sign ![](.gitbook/assets/10.png) means your FBox is offline, you need to check its network connection.
+The users can use HTTP or SDK standard development ports provided by us to develop the platform software themsevels to achieven management, data analysis and other functions.![](.gitbook/assets/19.png)
 
-Go to [www.flexem.cn/download.htm](http://www.flexem.cn/download.html)[l](http://www.flexem.cn/download.html) to check “FBox Series Product
+| **Equipment** **access** **and** **configuration** **management** **provided** **by** **us** | **Customeized** **data** **management** **center** **software** |
+| :--- | :--- |
 
-Instruction” to get more details.
 
-## 五、Product Dimension Graph 六、FAQ
+![](.gitbook/assets/20%20%281%29.jpeg)![](.gitbook/assets/21%20%281%29.jpeg)
 
-Q1 How to read the log of FBox?
+**MES** **System**
 
-A1：Use USB line to connect FBox USB Port and computer USB port. Open the top-right configuration tools on the FlexManager.Click “Refresh”, if the communication is normal, the interface will show the network configuration of FBox. Click”Log” on the menu bar, and click “Log refresh”. Then you can read the working log of FBox.
+![](.gitbook/assets/22%20%281%29.jpeg)![](.gitbook/assets/23%20%281%29.jpeg)
 
-Notice: Reading the log will cause FBox to restart. So don’t click “Log Refresh”
+**Background**
 
-too frequently
+Most of air conditionind and configeration equipment devices are unattended, with development of information technology and equipment management, currentlt the main demands for air conditioning and refrigeration:
 
-Q2: I cannot read the data of remote devices
+3. You can check the quipment runming data and status anytime and anywhere, and can set the important paramenter remotely.
 
-A2： Check whether the configuration parameter of remote download is the same as slave computer. Check whether the hardware connection is right.
+4. You can receive the quipment alarming information in time and check the equipment historical data.
 
-Q3: FBox cannot have access to the internet.
+1. You can manage the equipment, check and record the equipment file and maintenance ifnromation remotely.
 
-A3: Use the configuration tool of FlexManager to check whether the parameters of FBox is the same as the internet connection. If they are different, here is the right internet connection.
+2. Provice terminal users with mobile App to achieve remote equipment monitoring.
 
-## 七、After-sales Services
+**Solution**
 
-7.1、After-sale Services Commitment
+UPSILON provide air-conditoning and refrigeration industry with complete solution for equipment monitoring, FBox connected the PLC and controller in the filed equipment, transfers equipment data to remote cloud server through wireless network, and acheive equipment remote management and maintenance through the monitoring platform, to solve the problem above, at them time the solution has the following advantages:
 
-Products can be replaced within half a year, repaired for eighteen months, maintained for whole life. The period of maintaining regular products is 5 workdays.
+1. FBox supports the mainstream PLC, and can connect most of air conditioning and refigeration equipments, it supports a variety of Internet access ways.
 
-400 technical support hotline（4008-033-022）and supported in each office. 7.2、Specific terms
+2. Data monitoring and equipment managment functions can be realozed in PC, Mobile App, Website, etc..
 
-Replacement for half a year : In the half year after the product is sold, If products have any undersigned trouble that influences the performance of product, clients can suggest replacement of products if they cannot get maintenance service in time. We can replace the products with the same one for you.
+3. FBox supports multiple clients solution, R&D personnels, on-site service personnels, terminal users, can have different privilege and acces different devices.![](.gitbook/assets/24.jpeg)
 
-Repairing for eighteen months：In the eighteen years after the product
+**Background**
 
-is sold, if products have any undersigned problem, we can provide repairing
+Pump room is the core of secondary water-supply.
 
-service for you. You just need to send the broke-down products to our after-sales service center. We will repair the product in specified guarantee period and send it back to you.
+1. Water supplying equipment management
 
-Notice:
+Water supply equipment devices are more and more professional, the professional and technical engineers of the factories need monitor and maintenance the devices, master the running statud of the filed equipment in time and record equipment operating data. Besides, they need master the equipment faults at the earliest time to provide after-class service in time.
 
-1. If client destroy the label of products, it will be regarded as designed destruction, not including in quality guarantee period.
-2. In order to provide better service for you, please fill out the complete “Product After-sale Service Registration Form” when you send the broke-down product \(you can also download it from our website\). Please describe the phenomenon of malfunction, then our servicemen can repair it as soon as possible. Please write down your detailed contact information. Thus, we can send the repaired product back to you immediately.
-3. Please backup all parameters before you send it back. These parameters may be deleted during the repairing.
-4. As our products are precise electronic products, please use reliable packaging and transportation when you return the products to avoid worse damage due to transportation. You can buy the transportation insurance for any damage during the transportation or irresistible factors. Our company is not responsible for the break down during transportation.
+2. Water supplying pump room management
 
-If there is no response after you send out your broke-down products, please contact with after-sales service department to avoid the missing of product during the transportation.
+There are a great number of instrucment in the pump room for the detection of pump room and water quality, the information monitored including access control, video, turbidity, residual chorine, smoke detection, water and energy consumption and so on. The managers hope the infromation can be monitored remotely to achieve remote management of the smart pump roon.
 
-#### ![](.gitbook/assets/11%20%282%29.jpeg)
+**Solution**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">After-sale Service Registration Form</th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>Client</p>
-        <p>Information</p>
-      </td>
-      <td style="text-align:left">Name</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Contact person</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Address</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Product information</td>
-      <td style="text-align:left">Type of product</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Serial number</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Whether in</p>
-        <p>Warranty period</p>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>Number of times</p>
-        <p>of repairment</p>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Time to find malfunction and</p>
-        <p>phenomenon</p>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Suggestion</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+1. You can use FBox according to the actual needs, and each pump is configured one or two Fbox to acquire PLC
 
-Technology support：4008-033-022
+data and other gauges information.
+
+2. Fbox accesses the Internet through Ethernet or SIM card to transfer the data to the Cloud monitoring center
+
+server.
+
+3. The remote monitoring software based on B/S architechure acquires data from the sever to achieve remote monitoring and management of the samrt pump room, can be accessed anywhere through the Wen interface. 4. At the same time, through mobile APP, you can check the data of ech device, set running parameter of the deivce in mobile phone, check alarming and historical data checking, etc.
+
+![](.gitbook/assets/25%20%282%29.jpeg)![](.gitbook/assets/26.jpeg)
+
+**Background**
+
+Generally industrial boilers are applied in the electricity-generating or air supply application occasions, and are widely used in energy, chemical industry, building material, hearing and other industries. Currently, industrial boilers are more and more professiona, and the requirement for equipment safety is also getting higher and higher.
+
+1. You need to know the running status of the filed equipment in time, record the quipment running data in real-time, master the quipment fault at the earliest time, and provide after-class service timely.
+
+2. On the other hand, for the needs of saving energy and fine management, you need collect and sort a large number of equipment running data, to provide data support for equipment energy managemnet and energy- saving reconstruction.
+
+**Solution**
+
+We can privide the solution for industrial boilers remote monitoring, which can make manufacturers monitor equipment and equipment data remotelu, master the running fault status of the quiment devices in time, and improve the after-sales serve timely, and provide the technical research and development of saving energy. 1. You can improve after-sale service, in the company, you can also know the equipment running and fault status of each device. Besides, you can monitor and debud the program remotely, master and solve equipment fault time, improve after-sales service efficinecy and quality, which can save a lot of traveling time and cost.
+
+2. Through collecting and sorting equipment running data, you can master the product technical parameters and running data timely to provide data support for industrial boiler energy management and energy-saving reconstruction.![](.gitbook/assets/27%20%282%29.jpeg)
+
+**Background**
+
+Machanical equipment industry is high competitive, and the profit is less and less, so equipment manufacturing enterprises must ungrade products and improve service efficiency to achieve the transfomr and upgrading. At present, some enterprises want to establish a set of equipmetn platform to manage tens of thousands of units they sold and master the status and maintenance situation of these device at any time. The customer hopes to use the data:
+
+1. On the basis of selling products, providing customers with full product life cycle of maintenance service and enhancing the quality of service, to realize the transformation and upgrading of the enterprice.
+
+2. Using data to he;p the research and develop department analyze the parameter of different types of equipment for product development and upgrading better.
+
+3. Conuting operating rate, use efficiency, the habits of using and other data etc, to provide the markting department with data support for precision marketing.
+
+**Solution**
+
+The original scatter management will be intergated into orderly management through remote communication
+
+module.
+
+1. The managers can view the real-time running status, parameters and faults of each monitoring device at the palce, and they can collect the data information of each monitoring equipment, then transfer the collected data to the cloud to process and store.
+
+2. The main functions of equipment remote managemnet and monitroing palform includes equipment file management, real-time monitoring and larm, equipment safety, miantenance, staticstical analysis, etc.
+
+3. Provideing WEB clinet or APP client at the same time for displaying, analysis, diagnosis and managing to help the enterprise reduce the cost the quipment management, improve equipment management and ultization efficency, prmote the marktet competitive of the enterprises.
+
+![](.gitbook/assets/28%20%282%29.jpeg)
+
+![](.gitbook/assets/29%20%282%29.jpeg)
+
+![](.gitbook/assets/30%20%282%29.jpeg)
+
+![](.gitbook/assets/31.jpeg)![](.gitbook/assets/32%20%281%29.jpeg)
+
+**Background**
+
+More and more equipment manufacturing enterprise are changing operating modes, from selling to leasing , the type and quantity of leasing equipment are also more. After the equipment is leased, a set of remote management platform is needed to achieve the unity of the equipment management and services, mainly including:
+
+1. You can record equipment running parameters to realize the automatic caculation of rental and remind remotely through FBox.
+
+2. You can maintenance equipment devices remotely.
+
+3. You can set rent owning fees reminder and remote management.
+
+**Solution**
+
+Using FBox and cloud software, you can achieve leasing equipment remote managemnet and maintenance,
+
+solution and advantages:
+
+1. The connection is easy and convenient, and most PLC and controller are supported.
+
+2. Using equipment management platform, you can achieve leasing equipment remote managemnet and maintenance, rental calculation and reminding.
+
+3. Interface opening, it can be accessed to the self-developed leasing management platform or developed by a thrid party to provide the running data of the filed equipment.
 

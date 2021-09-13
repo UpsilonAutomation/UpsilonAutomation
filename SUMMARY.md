@@ -1,9 +1,10 @@
 # Table of contents
 
-* [FBox Series Hardware Instruction Manual](README.md)
+* [Internet Solution for Industrial Devices Based on FlexCloud](README.md)
 
 ## FBox Introduction and Manual of FlexManager
 
+* [FBox Series Hardware Instruction Manual](fbox-introduction-and-manual-of-flexmanager/fbox-series-hardware-instruction-manual.md)
 * [FBox Introduction and Manual of FlexManager](fbox-introduction-and-manual-of-flexmanager/tutorials.md)
 * [APN Setting Instructions](fbox-introduction-and-manual-of-flexmanager/apn-setting-instructions.md)
 * [FBox and EZVIA Cloud Camera](fbox-introduction-and-manual-of-flexmanager/fbox-and-ezvia-cloud-camera.md)
