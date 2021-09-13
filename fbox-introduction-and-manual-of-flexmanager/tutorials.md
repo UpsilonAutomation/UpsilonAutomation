@@ -2269,7 +2269,9 @@ Now, you can configure pictures by using the corresponding configuration softwar
 
 #### Introduction
 
-![](../.gitbook/assets/228.jpeg)The IMS case is shown in Fig. 4.11-1. The user can use the SDK interface or HTTP interface to obtain the data of the FBox devices from Flexcloud server or private cloud server according to the IMS. So that you can develop the PC monitoring system or the mobile phone APP by yourself.
+![](../.gitbook/assets/228.jpeg)
+
+The IMS case is shown in Fig. 4.11-1. The user can use the SDK interface or HTTP interface to obtain the data of the FBox devices from Flexcloud server or private cloud server according to the IMS. So that you can develop the PC monitoring system or the mobile phone APP by yourself.
 
 **Fig. 4.11-1 The IMS case**
 
@@ -2360,7 +2362,9 @@ For the way of DHCP, automatic access to IP, confirm whether the FBox obtain the
 
 For the way of Static IP, please directly contact with the network administrator to confirm whether the current network environment is limited, such as MAC address filtering, port restrictions, network behavior management software, Internet access software, and so on.
 
-For the way of GPRS, you should confirm that the mobile phone can access the internet after insert the SIM card into the mobile phone. That is, the function of Internet access for the SIM card has opened and there is no overdue bill. Then insert the SIM card into the FBox device again. Power on for the FBox device and observe the RF indicator status. If the RF indicator is off, it shows that the SIM card is not recognized. If the RF indicator is flashing or often bright but still can not be online, please check the antenna is inserted well. If the above are invalid, please upload the FBox log file, as shown in Fig. 5-5, and contact with the manufacturer for technical support.![](../.gitbook/assets/233.jpeg)
+For the way of GPRS, you should confirm that the mobile phone can access the internet after insert the SIM card into the mobile phone. That is, the function of Internet access for the SIM card has opened and there is no overdue bill. Then insert the SIM card into the FBox device again. Power on for the FBox device and observe the RF indicator status. If the RF indicator is off, it shows that the SIM card is not recognized. If the RF indicator is flashing or often bright but still can not be online, please check the antenna is inserted well. If the above are invalid, please upload the FBox log file, as shown in Fig. 5-5, and contact with the manufacturer for technical support.
+
+![](../.gitbook/assets/233.jpeg)
 
 **Fig. 5-5 Upload the FBox log file**
 
