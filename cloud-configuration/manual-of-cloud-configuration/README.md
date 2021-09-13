@@ -1,0 +1,2 @@
+# Manual of Cloud Configuration
+

@@ -1,0 +1,99 @@
+# DataMonitorPointsByNameArgs
+
+设备监控点启用/停止参数
+
+#### Inheritance
+
+System.Object
+
+DataMonitorPointsByNameArgs
+
+#### Inherited Members
+
+System.Object.Equals\(System.Object\)
+
+System.Object.Equals\(System.Object, System.Object\)
+
+System.Object.GetHashCode\(\)
+
+System.Object.GetType\(\)
+
+System.Object.MemberwiseClone\(\)
+
+System.Object.ReferenceEquals\(System.Object, System.Object\)
+
+System.Object.ToString\(\)
+
+**Namespace: FBoxClientDriver.Contract**
+
+**Assembly: FBoxClientDriver.Contract.dll**
+
+#### Syntax <a id="FBoxClientDriver_Contract_DataMonitorPointsByNameArgs_syntax"></a>
+
+```text
+public class DataMonitorPointsByNameArgs
+```
+
+## Constructors <a id="constructors"></a>
+
+### DataMonitorPointsByNameArgs\(\) <a id="FBoxClientDriver_Contract_DataMonitorPointsByNameArgs__ctor"></a>
+
+无参构造函数
+
+#### Declaration
+
+```text
+public DataMonitorPointsByNameArgs()
+```
+
+### DataMonitorPointsByNameArgs\(ICollection, String\) <a id="FBoxClientDriver_Contract_DataMonitorPointsByNameArgs__ctor_System_Collections_Generic_ICollection_System_String__System_String_"></a>
+
+构造函数
+
+#### Declaration
+
+```text
+public DataMonitorPointsByNameArgs(ICollection dataMonitorList, string boxNo)
+```
+
+#### Parameters
+
+| Type | Name | Description |
+| :--- | :--- | :--- |
+| System.Collections.Generic.ICollection&lt;System.String&gt; | dataMonitorList | 监测点列表 |
+| System.String | boxNo | 盒子编码 |
+
+## Properties <a id="properties"></a>
+
+### BoxNo <a id="FBoxClientDriver_Contract_DataMonitorPointsByNameArgs_BoxNo"></a>
+
+盒子编码
+
+#### Declaration
+
+```text
+public string BoxNo { get; set; }
+```
+
+#### Property Value
+
+| Type | Description |
+| :--- | :--- |
+| System.String |  |
+
+### DataMonitorList <a id="FBoxClientDriver_Contract_DataMonitorPointsByNameArgs_DataMonitorList"></a>
+
+监测点列表
+
+#### Declaration
+
+```text
+public ICollection DataMonitorList { get; set; }
+```
+
+#### Property Value
+
+| Type | Description |
+| :--- | :--- |
+| System.Collections.Generic.ICollection&lt;System.String&gt; |  |
+
