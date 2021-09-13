@@ -4,8 +4,8 @@
 
 ## FBox Introduction and Manual of FlexManager
 
-* [FBox Series Hardware Instruction Manual](fbox-introduction-and-manual-of-flexmanager/fbox-series-hardware-instruction-manual.md)
 * [FBox Introduction and Manual of FlexManager](fbox-introduction-and-manual-of-flexmanager/tutorials.md)
+* [FBox Series Hardware Instruction Manual](fbox-introduction-and-manual-of-flexmanager/fbox-series-hardware-instruction-manual.md)
 * [APN Setting Instructions](fbox-introduction-and-manual-of-flexmanager/apn-setting-instructions.md)
 * [FBox and EZVIA Cloud Camera](fbox-introduction-and-manual-of-flexmanager/fbox-and-ezvia-cloud-camera.md)
 * [Networking](fbox-introduction-and-manual-of-flexmanager/untitled/README.md)
@@ -387,7 +387,6 @@
 
 ## Cloud Configuration
 
-* [Internet Solution for Industrial Devices Based on FlexCloud](cloud-configuration/internet-solution-for-industrial-devices-based-on-flexcloud.md)
 * [Manual of Cloud Configuration](cloud-configuration/manual-of-cloud-configuration/README.md)
   * [Cloud Configuration](cloud-configuration/manual-of-cloud-configuration/cloud-configuration.md)
   * [Devices Connection](cloud-configuration/manual-of-cloud-configuration/devices-connection.md)
